@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
 https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt 
 https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
 
-Examples of how to use
+#Examples of how to use
 
 python main.py <url> <thread>
 
