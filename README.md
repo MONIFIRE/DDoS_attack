@@ -1,6 +1,7 @@
-proxy from https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
-proxy from https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt
-proxy from https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
+# source of proxy 
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt 
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
 
 Examples of how to use
 
