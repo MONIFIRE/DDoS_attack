@@ -2,7 +2,6 @@ import sys
 import requests
 from threading import Thread
 import random
-import urllib.request
 
 url_socks_three = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
 url_socks_two = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt"
